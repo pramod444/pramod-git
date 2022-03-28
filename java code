@@ -18,6 +18,8 @@ public class HelloWorld1 {
     }
 }
 
+#This is a java code for Hello Word
+
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
