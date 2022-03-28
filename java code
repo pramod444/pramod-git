@@ -1,7 +1,7 @@
 #This is a java code to Print an Integer entered by an user
 import java.util.Scanner;
 
-public class HelloWorld {
+public class HelloWorld1 {
 
     public static void main(String[] args) {
 
